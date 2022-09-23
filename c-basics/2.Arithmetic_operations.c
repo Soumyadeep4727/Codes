@@ -10,6 +10,6 @@ int main()
     printf("The sum is %d.\n", a+b);
     printf("The difference is %d.\n", a-b);
     printf("The product is %d.\n", a*b);
-    printf("The quotient is %d.\n", a/b);
+    printf("The quotient is %d.\n", a/b)
     printf("The remainder is %d.\n", a%b);
 }
